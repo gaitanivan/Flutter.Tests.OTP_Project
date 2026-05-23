@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 15.36 15.36"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="checkmark-lock.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="checkmark-lock.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.98046875"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+  <title
+     id="title1">ic_fluent_checkmark_lock_24_regular</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1">
+    <path
+       d="m 11.400731,7.9630014 c 0.631672,0 1.143723,0.5117166 1.143723,1.1429766 v 0.5740025 h 0.277839 c 0.473683,0 0.857707,0.3837735 0.857707,0.8571465 v 2.285726 C 13.68,13.296227 13.295976,13.68 12.822293,13.68 H 9.9632719 c -0.4736831,0 -0.8577065,-0.383773 -0.8577065,-0.857147 v -2.285726 c 0,-0.473373 0.3840234,-0.8571465 0.8577065,-0.8571465 H 10.257065 V 9.105978 c 0,-0.63126 0.512051,-1.1429766 1.143666,-1.1429766 z M 7.3980432,1.68 c 3.1579608,0 5.7180438,2.5583836 5.7180438,5.7143129 0,0.3801731 -0.03716,0.7517176 -0.108014,1.111148 -0.140835,-0.3763446 -0.410213,-0.6899457 -0.754782,-0.8874897 0.0034,-0.074115 0.0051,-0.1486863 0.0051,-0.2236583 0,-2.6825385 -2.176059,-4.8571659 -4.860337,-4.8571659 -2.6842897,0 -4.8603368,2.1746274 -4.8603368,4.8571659 0,2.6825271 2.1760471,4.8571661 4.8603368,4.8571661 0.3910571,0 0.7713639,-0.04617 1.1357176,-0.133315 v 0.704689 c 0,0.05788 0.00343,0.114915 0.01012,0.171029 C 8.1736957,13.06914 7.7904723,13.108626 7.3980432,13.108626 4.2400537,13.108626 1.68,10.550214 1.68,7.3943129 1.68,4.2383836 4.2400537,1.68 7.3980432,1.68 Z m 5.4242498,8.571412 H 9.9632719 c -0.1403336,0 -0.2570828,0.101047 -0.2812953,0.23435 l -0.00461,0.05137 v 2.285725 c 0,0.140242 0.1011578,0.256916 0.2345172,0.281112 l 0.051383,0.0046 h 2.8590212 c 0.140334,0 0.257084,-0.101091 0.281296,-0.234365 l 0.0046,-0.05135 v -2.285718 c 0,-0.140292 -0.101157,-0.256927 -0.234518,-0.281113 z m -1.42162,1.000004 c 0.236842,0 0.428854,0.191888 0.428854,0.428575 0,0.236686 -0.192012,0.428573 -0.428854,0.428573 -0.236841,0 -0.428853,-0.191887 -0.428853,-0.428573 0,-0.236687 0.192012,-0.428575 0.428853,-0.428575 z m 5.8e-5,-2.7169832 c -0.293251,0 -0.534978,0.2206372 -0.568015,0.5048909 l -0.0038,0.066655 v 0.5740018 h 1.143782 V 9.105978 c 0,-0.3156583 -0.256054,-0.5715452 -0.571919,-0.5715452 z M 9.8455375,5.6626875 c 0.1522711,0.152155 0.1661095,0.3902476 0.041516,0.5580255 L 9.8455375,6.2687653 6.9865157,9.1259217 C 6.8343014,9.2780934 6.5960306,9.291922 6.4281489,9.1674071 L 6.3800575,9.1259214 4.9505298,7.6973432 c -0.1674758,-0.1673726 -0.1674758,-0.438688 0,-0.6060599 0.1522543,-0.1521726 0.3905023,-0.1660012 0.5583898,-0.041486 l 0.0481,0.041486 1.126266,1.1254907 2.5557937,-2.5540862 c 0.1674816,-0.1673665 0.4389738,-0.1673665 0.6064559,0 z"
+       id="🎨-Color"
+       inkscape:label="Color"
+       style="stroke-width:0.78125;fill:#ffffff;fill-opacity:1" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ic_fluent_checkmark_lock_24_regular</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
